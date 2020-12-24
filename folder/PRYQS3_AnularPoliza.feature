@@ -7,3 +7,6 @@ test
 again added
 
 add
+
+
+new line
