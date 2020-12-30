@@ -19,3 +19,6 @@ Feature: Poder realizar Fraccionamiento para la línea de Productos Vida
       | 
       | 
       | aa03234 |
+
+
+etsst
